@@ -1,4 +1,4 @@
-# 📊 PhonePe Transactions Analytics Dashboard | Power BI
+# 📊 PhonePe Analytics Dashboard | Power BI
 
 An interactive **Power BI analytics dashboard** designed to explore **PhonePe digital transactions**, user spending behavior, and derive **business insights** such as revenue trends, category usage, and transaction performance.
 
